@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>ApplicationConfiguration</Title>
+    <Company>ZA Ecom</Company>
+    <Authors>Zafer Altan</Authors>
+    <Description>Library for managing Application level settings.</Description>
+    <Copyright>Copyright © 2023 ZA Ecom</Copyright>
+    <AssemblyVersion>1.5.8.58375</AssemblyVersion>
+    <FileVersion>1.5.8.58375</FileVersion>
+    <IncludeSymbols>False</IncludeSymbols>
+    <Version>1.5.8.58375</Version>
+    <SignAssembly>False</SignAssembly>
+  </PropertyGroup>
+
+</Project>
